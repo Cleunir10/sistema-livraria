@@ -4,7 +4,7 @@ Sistema de gerenciamento para uma livraria com controle de produtos, clientes e 
 
 ## Estrutura do Banco de Dados
 
-![Diagrama do Banco de Dados](\modelo banco de dados - tabelas e relacionamentos.jpg)
+![Diagrama ER do Sistema de Livraria](diagrama_er.png)
 
 O sistema possui 4 tabelas principais:
 
